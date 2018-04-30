@@ -1,0 +1,142 @@
+div#promo{
+  text-align:center;
+  padding:0px;
+  background:url(img.jpg);
+}
+
+div#button{
+  width:200px;
+  padding:10px;
+  padding-left:200px;
+}
+
+ul.list-inline{
+  line-height:normal;
+  padding:10px;
+  padding-bottom:10px;
+}
+
+ul.nav.nav-tabs.nav-justified{
+  padding:20px;
+  padding-right:20px;
+  padding-left:32px;
+  width:10px;
+  word-break:break-word;
+}
+
+@media (max-width:200px) {
+  button.btn.btn-primary.btn-lg.show.visible-md-inline.visible-lg-inline{
+    margin:20px;
+    padding:10px;
+    padding-right:20px;
+    text-align:center;
+    align-content:center;
+    align-self:center;
+  }
+}
+
+button.btn.btn-primary.btn-lg{
+  margin:10px;
+  padding-right:30px;
+}
+
+div.btn-group{
+  padding:10px;
+  margin:10px;
+  margin-right:300px;
+  margin-left:200px;
+}
+
+a.btn.btn-primary.btn-lg{
+  margin-right:100px;
+}
+
+div#buttons{
+  align-content:center;
+  align-items:center;
+  margin-left:200px;
+}
+
+h1.text-nowrap.text-center{
+  margin-bottom:50px;
+  margin-top:-20px;
+}
+
+p.text-justify{
+  font-size:large;
+}
+
+blockquote{
+  font:itelic;
+}
+
+p.text-left.bg-primary{
+  padding:10px;
+}
+
+p.text-justify.list-group-item-text{
+}
+
+ul.list-group{
+  font-size:larger;
+}
+
+li#qaset.list-group-item{
+}
+
+p.text-left.bg-primary{
+}
+
+span.text-muted{
+  margin-left:30%;
+}
+
+nav#pagination{
+  margin-left:40%;
+}
+
+span#bar{
+  margin-left:45%;
+  font-size:large;
+  font-family:inherit;
+}
+
+a.navbar-brand.navbar-link{
+}
+
+div#first.col-md-12{
+}
+
+li.disabled{
+}
+
+div#paginationsdiv{
+}
+
+nav#pages{
+  float:none !important;
+  text-align:center;
+}
+
+div#heading12{
+  float:none;
+}
+
+h1#heading1{
+  text-align:center;
+  margin-top:-10px;
+  margin-bottom:40px;
+}
+
+a{
+}
+
+div#yess{
+  margin:0px;
+  text-align:center;
+}
+
+span#well{
+  float:none !important;
+}
+
